@@ -1,0 +1,1 @@
+# LWCComponent
